@@ -14,6 +14,18 @@
 
 ---
 
+
+## Skills Demonstrated                                                                                                                                                                                              
+  - **Agentic AI Systems** — multi-node LangGraph graph with stateful execution flow                                                                                                                       
+  - **Custom MCP Server Development** — built FastMCP server with 3 tools, stdio transport
+  - **MCP Client Integration** — connected a LangGraph agent to an external server via the Model Context Protocol                                                                                          
+  - **RAG Pipeline** — scrape → embed → store → semantic search → generate                                                                                                                                 
+  - **Vector Database** — ChromaDB with metadata filtering and cosine similarity search                                                                                                                    
+  - **Async Python** — all agent nodes and MCP client calls are fully async                                                                                                                                
+  - **AI Observability** — end-to-end LangSmith tracing across nodes, tools, and LLM calls                                                                                                                 
+  - **Protocol Design** — agent communicates with tools over JSON-RPC, not direct function calls
+
+---
 ## What It Does
 
 Type a company name. Get a structured intelligence report in seconds.
