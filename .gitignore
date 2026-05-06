@@ -1,0 +1,47 @@
+# Environment — never commit secrets
+.env
+.env.example
+.env.local
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Claude Code configuration
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache
+*.egg-info/
+dist/
+build/
+.Python
+
+# ChromaDB local vector storage
+chroma_data/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
